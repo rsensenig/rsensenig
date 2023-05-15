@@ -3,7 +3,7 @@
 
 - 😄 Pronouns: she/her
 
-- 🔭 I’m currently working on [CarCalc](https://github.com/danner/carcalc)
+- 🔭 I’m currently working on [CarCalc](https://github.com/danner/carcalc) and [Contra Search](https://github.com/rsensenig/contra-search)
 
 - 🌱 I’m currently learning **React.js**
 
