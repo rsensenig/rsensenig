@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [CarCalc](https://github.com/danner/carcalc) and [Contra Search](https://github.com/rsensenig/contra-search)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js** and **Scala**
 
 - 💬 Ask me about **Vue.js, Node.js, Jest.js, MongoDB, PostrgeSQL**
 
